@@ -32,8 +32,8 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/USERNAME/REPOSITORY_NAME.git
-    cd REPOSITORY_NAME
+    git clone https://github.com/Bala1884/Registration-Form-MERN.git
+    cd Registration-Form-MERN
     ```
 
 2. Install dependencies for both the server and client:
@@ -55,15 +55,15 @@ To run this project locally, follow these steps:
 
 4. Run the development servers:
     ```sh
-    # Start the server
-    cd server
+    # Start the client
+    cd client
     npm run dev
 
-    # Start the client
-    cd ../client
+    # Start the server
+    cd ../server
     npm start
     ```
 
 ## Usage
-Open your browser and navigate to `http://localhost:3000` to see the registration form in action.
+Open your browser and navigate to `http://localhost:5173` to see the registration form in action.
 
