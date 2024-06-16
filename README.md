@@ -50,8 +50,8 @@ To run this project locally, follow these steps:
 
 3. Create a `.env` file in the `server` directory and add your MongoDB URI and any other required environment variables:
     ```env
-    MONGO_URI=your_mongodb_uri
-    PORT=5000
+    MONGODB_USERNAME=<your-mongodb-username>
+    MONGODB_PASSWORD=<your-password>
     ```
 
 4. Run the development servers:
