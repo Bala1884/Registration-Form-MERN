@@ -8,8 +8,7 @@ This is a simple registration form application built using the MERN (MongoDB, Ex
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 This project is a basic registration form that allows users to register by providing their information, which is then stored in a MongoDB database. The frontend is built with React, the backend with Node.js and Express.js, and MongoDB is used for the database.
